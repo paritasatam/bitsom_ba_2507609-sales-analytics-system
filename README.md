@@ -29,7 +29,6 @@ Error Handling: Robust error handling and logging
 
 Python version: 3.7 or higher
 
-Required libraries are listed in requirements.txt
 
 # To execute the complete workflow:
 
